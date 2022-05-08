@@ -1,0 +1,50 @@
+[2022-01-15 08:16:33] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2022-01-15 08:16:39] [WARNING]: 登录需要滑条验证码, 请使用手机QQ扫描二维码以继续登录. 
+[2022-01-15 08:19:21] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-15 09:39:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 09:39:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 09:39:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 09:39:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 09:40:12] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-15 09:43:05] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-15 09:55:52] [FATAL]: 打开数据库失败: open backend error: open level ldb error: resource temporarily unavailable 
+[2022-01-15 09:56:40] [FATAL]: 打开数据库失败: open backend error: open level ldb error: resource temporarily unavailable 
+[2022-01-15 10:04:42] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-15 10:04:47] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48031->127.0.0.1:8080: use of closed network connection 
+[2022-01-15 10:04:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:04:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:04:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:04:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:05:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:05:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:05:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:05:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:05:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:05:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:05:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:05:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:05:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:05:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:05:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:05:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:05:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:07:42] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-15 10:07:47] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48054->127.0.0.1:8080: use of closed network connection 
+[2022-01-15 10:07:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:07:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:07:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:07:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:08:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:08:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:08:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:08:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:08:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:08:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 10:16:15] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-15 10:16:32] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-15 10:42:41] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-15 10:42:45] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48085->127.0.0.1:8080: use of closed network connection 
+[2022-01-15 10:42:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-15 11:14:55] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2022-01-15 19:50:22] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2022-01-15 21:31:58] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 

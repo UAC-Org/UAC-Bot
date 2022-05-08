@@ -1,0 +1,4 @@
+1data:装有关于chemistry的基础设施
+1data2:装有关于chemistry中加入实验室后的设施
+2data:装有关于lab的基础设施
+2data2:装有关于lab中开始实验后的设施

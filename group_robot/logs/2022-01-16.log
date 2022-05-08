@@ -1,0 +1,124 @@
+[2022-01-16 07:56:12] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 07:56:15] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48094->127.0.0.1:8080: write: broken pipe 
+[2022-01-16 07:56:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-16 07:58:06] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-16 08:04:25] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 08:04:30] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48096->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 08:04:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-16 08:04:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-16 08:55:56] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 08:56:00] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48099->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 08:56:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-16 08:59:12] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 08:59:20] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48101->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 08:59:43] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-16 09:01:08] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-16 09:01:45] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-16 09:21:25] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 09:21:30] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48102->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 09:22:57] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 09:23:00] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48103->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 09:23:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-16 09:24:53] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 09:25:00] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48105->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 09:28:33] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-16 09:39:13] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 09:39:20] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48106->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 09:39:35] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-16 09:41:33] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-16 10:10:05] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-16 10:14:44] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-16 10:43:12] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-16 10:55:56] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 10:56:00] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48109->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 10:56:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-16 10:57:23] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 10:57:30] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48112->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 10:58:49] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 10:58:55] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48113->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 10:59:27] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 10:59:35] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48114->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 10:59:52] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 10:59:55] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48115->127.0.0.1:8080: write: broken pipe 
+[2022-01-16 10:59:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-16 11:04:01] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 11:04:05] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48117->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 11:04:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-16 11:04:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-16 11:04:52] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 11:05:00] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48120->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 11:08:12] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-16 11:08:51] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 11:08:55] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48121->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 11:08:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-16 11:10:00] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2022-01-16 11:15:53] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 11:16:00] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48123->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 12:22:26] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-16 13:50:15] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2022-01-16 14:56:34] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-16 14:57:36] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2022-01-16 16:11:57] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 16:12:05] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48124->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 16:12:49] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 16:12:55] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48127->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 16:14:01] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 16:14:04] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48128->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 16:14:17] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 16:14:25] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48129->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 16:16:08] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 16:16:15] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48130->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 16:21:24] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 16:21:25] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48131->127.0.0.1:8080: write: broken pipe 
+[2022-01-16 16:21:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-16 16:25:02] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 16:25:10] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48133->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 16:30:38] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 16:30:45] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48134->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 16:31:57] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 16:32:05] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48135->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 16:38:27] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 16:38:35] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48136->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 16:46:45] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 16:46:50] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48137->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 16:50:25] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 16:50:30] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48138->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 16:51:06] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 16:51:10] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48139->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 16:57:54] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 16:58:00] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48140->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 17:03:15] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 17:03:20] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48141->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 17:06:27] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 17:06:35] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48142->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 19:03:49] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 19:03:55] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48143->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 19:05:57] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 19:06:05] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48144->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 19:12:05] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 19:12:10] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48145->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 19:16:55] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 19:17:00] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48146->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 19:18:30] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 19:18:35] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48147->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 19:22:04] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 19:22:10] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48148->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 19:24:10] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 19:24:15] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48149->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 19:27:26] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 19:27:30] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48150->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 19:30:04] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 19:30:10] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48151->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 19:31:32] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 19:31:40] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48152->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 19:37:11] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 19:37:15] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48153->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 19:40:05] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-16 19:46:11] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-16 19:46:19] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-16 19:46:33] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-16 19:47:01] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-16 20:01:56] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-16 20:02:03] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48175->127.0.0.1:8080: use of closed network connection 
+[2022-01-16 20:02:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-16 20:02:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 

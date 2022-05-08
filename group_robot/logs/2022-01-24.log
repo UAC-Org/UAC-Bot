@@ -1,0 +1,6 @@
+[2022-01-24 21:18:12] [ERROR]: Protocol -> unknown group msg: 0 
+[2022-01-24 21:18:40] [ERROR]: Protocol -> unknown group msg: 0 
+[2022-01-24 21:31:57] [WARNING]: 记录聊天数据时出现错误: insert message to backend error: encode message error: gob: type not registered for interface: message.RedBagMessageType 
+[2022-01-24 23:14:47] [ERROR]: Protocol -> unknown group msg: 0 
+[2022-01-24 23:14:49] [ERROR]: Protocol -> unknown group msg: 0 
+[2022-01-24 23:14:51] [ERROR]: Protocol -> unknown group msg: 0 

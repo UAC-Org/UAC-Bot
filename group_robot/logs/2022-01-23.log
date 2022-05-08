@@ -1,0 +1,8 @@
+[2022-01-23 17:15:44] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 175.27.14.68:80: connect: connection timed out 
+[2022-01-23 17:17:53] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 175.27.12.205:80: connect: connection timed out 
+[2022-01-23 17:18:14] [WARNING]: 群消息发送失败: 消息为空. 
+[2022-01-23 17:20:00] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 175.27.35.227:443: connect: connection timed out 
+[2022-01-23 17:22:09] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 109.244.255.57:80: connect: connection timed out 
+[2022-01-23 17:22:09] [ERROR]: Protocol -> upload long message error: highway server list is empty or not available server. 
+[2022-01-23 17:22:09] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-23 20:36:23] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 

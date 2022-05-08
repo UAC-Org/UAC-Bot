@@ -1,0 +1,33 @@
+[2022-01-19 06:10:44] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-19 06:11:03] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-19 07:01:55] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-19 07:46:20] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-19 08:41:33] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-19 08:41:35] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48326->127.0.0.1:8080: write: broken pipe 
+[2022-01-19 08:41:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-19 08:44:39] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-19 08:44:43] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48333->127.0.0.1:8080: use of closed network connection 
+[2022-01-19 08:47:21] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-19 08:47:28] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48334->127.0.0.1:8080: use of closed network connection 
+[2022-01-19 08:50:24] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-19 08:50:28] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48335->127.0.0.1:8080: use of closed network connection 
+[2022-01-19 08:51:35] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-19 08:51:38] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48336->127.0.0.1:8080: use of closed network connection 
+[2022-01-19 08:52:40] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-19 08:52:43] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48337->127.0.0.1:8080: use of closed network connection 
+[2022-01-19 08:53:34] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-19 08:53:38] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48338->127.0.0.1:8080: use of closed network connection 
+[2022-01-19 08:54:55] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-19 08:54:58] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48339->127.0.0.1:8080: use of closed network connection 
+[2022-01-19 08:55:42] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-19 08:55:48] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48340->127.0.0.1:8080: use of closed network connection 
+[2022-01-19 08:56:22] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-19 08:56:28] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48341->127.0.0.1:8080: use of closed network connection 
+[2022-01-19 08:57:33] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-19 08:57:38] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48342->127.0.0.1:8080: use of closed network connection 
+[2022-01-19 09:04:13] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-19 09:04:18] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48343->127.0.0.1:8080: use of closed network connection 
+[2022-01-19 09:04:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2022-01-19 16:37:14] [WARNING]: 记录聊天数据时出现错误: insert message to backend error: encode message error: gob: type not registered for interface: message.RedBagMessageType 
+[2022-01-19 16:41:38] [WARNING]: 记录聊天数据时出现错误: insert message to backend error: encode message error: gob: type not registered for interface: message.RedBagMessageType 
+[2022-01-19 16:52:25] [WARNING]: 记录聊天数据时出现错误: insert message to backend error: encode message error: gob: type not registered for interface: message.RedBagMessageType 

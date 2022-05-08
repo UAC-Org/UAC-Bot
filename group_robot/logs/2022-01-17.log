@@ -1,0 +1,19 @@
+[2022-01-17 05:55:39] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-17 09:32:02] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-17 12:51:21] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-17 13:27:08] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-17 13:31:02] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-17 15:05:54] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-17 18:22:01] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-17 18:22:58] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-17 18:32:31] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-17 19:14:58] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-17 22:18:41] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-17 22:28:53] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-17 22:28:58] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48183->127.0.0.1:8080: use of closed network connection 
+[2022-01-17 22:31:35] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-17 22:31:43] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48193->127.0.0.1:8080: use of closed network connection 
+[2022-01-17 22:33:11] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-01-17 22:33:18] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:48194->127.0.0.1:8080: use of closed network connection 
+[2022-01-17 22:35:18] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-01-17 23:18:27] [WARNING]: 群消息发送失败: 账号可能被风控. 
